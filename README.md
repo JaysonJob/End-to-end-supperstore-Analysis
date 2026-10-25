@@ -1,7 +1,7 @@
 # End-to-end-supperstore-Analysis
     Python analysis of Super Store retail data to identify profit drivers and strategic insights.
 ##  Project Overview
-This project performs an in-depth Exploratory Data Analysis (EDA) on the classic Super Store retail dataset.The goal is to identify weak areas,uncover hidden opportunities and provide actionable marketing and operational strategies to boost business profitability.
+This project performs an in-depth Exploratory Data Analysis (EDA) on the classic Super Store retail shop in the United States.They sell Furniture,Office Supplies and Technology products and their customers are the mass Consumer,Corporate and Home Offices.The data set contains sales,profit and geographical information of individual orders.The goal is to identify weak areas,uncover hidden opportunities and provide actionable marketing and operational strategies to boost business profitability.
 
 **Target Audience:** The analysis is written in layman's terms,tailored for business owners (assumed to be a small family business) who need clear,data-driven recommendations without needing to understand complex statistics.
 
